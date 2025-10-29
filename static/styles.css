@@ -2,12 +2,12 @@ body{
     margin: 0px;
     padding: 0px;
     font-family: 'Lora', serif;
-    background-color: #fff2df;
+    background-color: white
     color: black;   
 }
 
 header{    
-    background-color:  #002244;
+    background-color:  #2e93f7;
     color: #fff2df; 
     border-bottom: solid 3px;
 }
@@ -54,7 +54,7 @@ select{
     font-family: 'Lora', serif;
     font-style: oblique;
     font-weight: 400;    
-    border: solid 2px #ffe5be;
+    border: solid 2px #2e93f7;
     border-radius: 10px;
 }
 
@@ -71,8 +71,8 @@ select{
     font-family: 'Lora', serif;
     font-style: oblique;
     font-weight: 900;
-    background-color: #002244;
-    color: #fff2df;   
+    background-color:  #2e93f7;
+    color: #ffe5be;   
     border: solid 2px #ffe5be;    
     border-radius: 10px;
 }
